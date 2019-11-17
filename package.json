@@ -1,0 +1,27 @@
+{
+  "name": "reprograma-projeto-integracao-mongo-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon /.server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iprih/reprograma-projeto-integracao-mongo-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iprih/reprograma-projeto-integracao-mongo-1/issues"
+  },
+  "homepage": "https://github.com/iprih/reprograma-projeto-integracao-mongo-1#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11",
+    "nodemon": "^1.19.4"
+  }
+}
